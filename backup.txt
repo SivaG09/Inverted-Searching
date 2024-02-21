@@ -1,0 +1,7 @@
+#3;done;1;file2.txt;1;#
+#6;Good;1;file3.txt;1;#
+#7;Hi;1;file3.txt;1;#
+#8;Inverted;1;file2.txt;1;#
+#8;Index;1;file2.txt;1;#
+#8;is;1;file2.txt;1;#
+#8;I'm;1;file3.txt;1;#
